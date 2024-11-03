@@ -1,0 +1,39 @@
+img{
+    width: 100%;
+}
+.post{
+    width: 500px;
+    margin: auto;
+    background-color: white;
+    margin-top: 20px;
+}
+.postheader{
+    display: flex;
+    justify-content: space-between;
+   font-size: 25px
+}
+    .iconunder{
+        display: flex;
+        justify-content: space-between;
+        font-size: 25px;
+        
+    }
+    .punto{
+        display: flex;
+        align-items: center;
+    
+    }
+.icontop{
+    height: 80%;
+   width: 0%;
+   align-self: center;
+   font-size: 1.7em;
+   margin: 4px 4px 0px 8px;
+}
+.texto{
+    height: 80%;
+   width: 85%;
+   align-self: flex-start;
+   font-size: 1em;
+   padding: 8px 10px 0px 10px;
+}
